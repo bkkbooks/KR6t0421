@@ -1,0 +1,135 @@
+canonical_identifier: bkk:krp/KR6t0421/v1
+canonical_location: https://kanripo.org/bkk/KR6t0421/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0421_001.yaml, hash: 'sha256:af270d9def0d9aaef36604184b86e771165f65f43d7a5b5d391bbfc66efd8ebc'}
+  - {seq: 2, filename: KR6t0421_002.yaml, hash: 'sha256:8bc37449074c2872218031bffaf133c3e611ef74dfa9dd9a442642d2264161f1'}
+  - {seq: 3, filename: KR6t0421_003.yaml, hash: 'sha256:45a01ed8220b30e6cec3731ef04f027279234f62fc10312ece9ed8250d236bbc'}
+  - {seq: 4, filename: KR6t0421_004.yaml, hash: 'sha256:3eea59f49a41352d2111897fab0dbcb939cf793b2cc9d26f6a4a0767be832bc9'}
+  - {seq: 5, filename: KR6t0421_005.yaml, hash: 'sha256:0e6f449e1eab4d290a34fc6cbf9d8dd441368a5b4f466a288437196b84ba5268'}
+  - {seq: 6, filename: KR6t0421_006.yaml, hash: 'sha256:926b83b2d897cd6aa399b2a0e55f87655a4061daaf083f0094b375ddfb03c62d'}
+  - {seq: 7, filename: KR6t0421_007.yaml, hash: 'sha256:8564cb8694b239db4fde376a814fba788bea12be20ed2818b26b4b4691c30ef5'}
+  - {seq: 8, filename: KR6t0421_008.yaml, hash: 'sha256:0949e6ef6ec8e4cb4e9b53f768997ffa43a9423cf7a1d2055cb2495ca4d0efa8'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0421_001.markers.yaml, hash: 'sha256:17d9a20e9b71ab0be8e34b43a4387d25069c80a9ff07a902cfd509b04948fd57'}
+  - {seq: 2, role: markers, filename: assets/KR6t0421_002.markers.yaml, hash: 'sha256:e46ad4a993a6151ae99e175164c034dc91066f9aaec057fec0d76a1aebc809db'}
+  - {seq: 3, role: markers, filename: assets/KR6t0421_003.markers.yaml, hash: 'sha256:2823a1c439db9b413f758c9b63942dc8b263a14e2222e1613136dd12f34f239f'}
+  - {seq: 4, role: markers, filename: assets/KR6t0421_004.markers.yaml, hash: 'sha256:8bb3ceff43f512519730eb02cf3b9536af9eeb69a2fa9d84c51579366df33887'}
+  - {seq: 5, role: markers, filename: assets/KR6t0421_005.markers.yaml, hash: 'sha256:8c0ee54783613b78f7be760b4231363c573de9f0eb5ea8fa5e1079cd5a21411b'}
+  - {seq: 6, role: markers, filename: assets/KR6t0421_006.markers.yaml, hash: 'sha256:ca64b91e62f66c352c5d68c0f3b528bc5c926afb23bc85a2ac6f408cb781b48f'}
+  - {seq: 7, role: markers, filename: assets/KR6t0421_007.markers.yaml, hash: 'sha256:bcbd72400ed02b333a12709868adc6c36470d6b6f3e9ba2ff034610c2f39ef05'}
+  - {seq: 8, role: markers, filename: assets/KR6t0421_008.markers.yaml, hash: 'sha256:07d054dcb667238d27499a717645d6e6058b01bda9df3a1381d093ffbbc26e83'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 2082
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 12208
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 11500
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 9252
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3794
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 12215
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 16182
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 22905
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6t0421_T_008-0794a01.h.8
+    span:
+    - body
+    - 0
+    - 22905
+  label: 三密鈔卷下下
+  type: section
+  level: 2
+metadata:
+  title: '[var. 悉曇]三密鈔'
+  identifiers:
+    krp: KR6t0421
+    canon: T
+    vol: '84'
+    'no': '2710'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0421.xml
+  edition:
+    short: bkk
+hash: sha256:468604889104a01accdc32c987dedcf341e3961cdf83fc5a37f286307d4b77aa
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
+editions:
+- short: T

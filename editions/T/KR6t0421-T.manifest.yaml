@@ -1,0 +1,130 @@
+canonical_identifier: bkk:krp/KR6t0421/T/v1
+canonical_location: https://kanripo.org/bkk/KR6t0421/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR6t0421_001-T.yaml, hash: 'sha256:bf9491dc05c24e3dd83e731e793a55231fb640d417b91b2841b88389fb582ea2'}
+  - {seq: 2, filename: KR6t0421_002-T.yaml, hash: 'sha256:2d1e23a9cdca1e971fee89109998d555d5fec4f5299d6ddc2e85f54645f058c9'}
+  - {seq: 3, filename: KR6t0421_003-T.yaml, hash: 'sha256:9a239982da192a8016033c726420a4265a5223757bb438e0eecff24f72eaef45'}
+  - {seq: 4, filename: KR6t0421_004-T.yaml, hash: 'sha256:16e7bf7f5722b7fc3f65b9487603464fa68c0f39f5c844e1441c3f06c5943038'}
+  - {seq: 5, filename: KR6t0421_005-T.yaml, hash: 'sha256:f12b4907ec50bf4dbce892ad8c0863ecd52e8e5669e7ebb83806894925f863f3'}
+  - {seq: 6, filename: KR6t0421_006-T.yaml, hash: 'sha256:829c76c2392f913df56a592e1a65896811ead29fca8d98c1fefa82fa1ea1ed2b'}
+  - {seq: 7, filename: KR6t0421_007-T.yaml, hash: 'sha256:a73d6f293f884a8c6fa14bf5a8281bd31bbf2219c9f00f525cece5f6d4517936'}
+  - {seq: 8, filename: KR6t0421_008-T.yaml, hash: 'sha256:a567a48508e581e81f69fcc0c06e69801eaa0f317fdbee3ca37bc4665e37c60f'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6t0421_001-T.markers.yaml, hash: 'sha256:d48cbc9ec30eeb4df8b6cf2ce06444ef258ff0c80129a2619cee1698d01306c9'}
+  - {seq: 2, role: markers, filename: assets/KR6t0421_002-T.markers.yaml, hash: 'sha256:6e6a39643ddcd3519897e9ebf7e42d3d4a695bc1ebd4f30c71fde351b8fa614d'}
+  - {seq: 3, role: markers, filename: assets/KR6t0421_003-T.markers.yaml, hash: 'sha256:d803c0dfa72819395b08ee9713e302c1a55c045c52dd3e7943246cbcd03cf207'}
+  - {seq: 4, role: markers, filename: assets/KR6t0421_004-T.markers.yaml, hash: 'sha256:9875ed32a924005501f518212db441d86cecda228a94661c33b2e06ed49ac072'}
+  - {seq: 5, role: markers, filename: assets/KR6t0421_005-T.markers.yaml, hash: 'sha256:6630e622943aaf2c48598c6821f8d551a396e441a492a8a1c674f5bd0b7f4455'}
+  - {seq: 6, role: markers, filename: assets/KR6t0421_006-T.markers.yaml, hash: 'sha256:08433fea7aa36e9f9cdf8d984e92912d413f2a36fa261f606d521a3b766a6831'}
+  - {seq: 7, role: markers, filename: assets/KR6t0421_007-T.markers.yaml, hash: 'sha256:e384091ff478abf378c9f33ca222f19afcf216aaa0d35adf44fd0f8ae96f21e2'}
+  - {seq: 8, role: markers, filename: assets/KR6t0421_008-T.markers.yaml, hash: 'sha256:40b6dde1f9e06741128833d781cf145d8f58565a6b6ca9da32682ed898ce0e09'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 2082
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 12208
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 11500
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 9252
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 3794
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 12215
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 16182
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 22905
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6t0421_T_008-0794a01.h.8
+    span:
+    - body
+    - 0
+    - 22905
+  label: 三密鈔卷下下
+  type: section
+  level: 2
+metadata:
+  title: '[var. 悉曇]三密鈔'
+  identifiers:
+    krp: KR6t0421
+    canon: T
+    vol: '84'
+    'no': '2710'
+  tags:
+    kr-categories: KR6t
+  source:
+    repository: tls-texts
+    path: data/tls/KR6t0421.xml
+  edition:
+    short: T
+hash: sha256:183172278808c73c15002584aa8bd6d5961ddd6c2de9a642cd7313ae4b924c7c
