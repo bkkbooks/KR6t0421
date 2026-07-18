@@ -16,11 +16,11 @@ assets:
   markers:
   - {seq: 1, role: markers, filename: assets/KR6t0421_001.markers.yaml, hash: 'sha256:17d9a20e9b71ab0be8e34b43a4387d25069c80a9ff07a902cfd509b04948fd57'}
   - {seq: 2, role: markers, filename: assets/KR6t0421_002.markers.yaml, hash: 'sha256:e46ad4a993a6151ae99e175164c034dc91066f9aaec057fec0d76a1aebc809db'}
-  - {seq: 3, role: markers, filename: assets/KR6t0421_003.markers.yaml, hash: 'sha256:2823a1c439db9b413f758c9b63942dc8b263a14e2222e1613136dd12f34f239f'}
-  - {seq: 4, role: markers, filename: assets/KR6t0421_004.markers.yaml, hash: 'sha256:8bb3ceff43f512519730eb02cf3b9536af9eeb69a2fa9d84c51579366df33887'}
+  - {seq: 3, role: markers, filename: assets/KR6t0421_003.markers.yaml, hash: 'sha256:f7ec62447a37ea500b72f1ec43fbf5e0d34c75cc959168a27a58cb5da697fe21'}
+  - {seq: 4, role: markers, filename: assets/KR6t0421_004.markers.yaml, hash: 'sha256:527621ee5e81981712d02f6765a16006af196e02b6191307ebe5c9177ed09c13'}
   - {seq: 5, role: markers, filename: assets/KR6t0421_005.markers.yaml, hash: 'sha256:8c0ee54783613b78f7be760b4231363c573de9f0eb5ea8fa5e1079cd5a21411b'}
   - {seq: 6, role: markers, filename: assets/KR6t0421_006.markers.yaml, hash: 'sha256:ca64b91e62f66c352c5d68c0f3b528bc5c926afb23bc85a2ac6f408cb781b48f'}
-  - {seq: 7, role: markers, filename: assets/KR6t0421_007.markers.yaml, hash: 'sha256:bcbd72400ed02b333a12709868adc6c36470d6b6f3e9ba2ff034610c2f39ef05'}
+  - {seq: 7, role: markers, filename: assets/KR6t0421_007.markers.yaml, hash: 'sha256:4d7cc4c5ae9fa205ab8a77dcfef7e7f37288e5708caaac57fdb99671b4d1fdc9'}
   - {seq: 8, role: markers, filename: assets/KR6t0421_008.markers.yaml, hash: 'sha256:07d054dcb667238d27499a717645d6e6058b01bda9df3a1381d093ffbbc26e83'}
 table_of_contents:
 - ref:
@@ -127,7 +127,7 @@ metadata:
     path: data/tls/KR6t0421.xml
   edition:
     short: bkk
-hash: sha256:468604889104a01accdc32c987dedcf341e3961cdf83fc5a37f286307d4b77aa
+hash: sha256:4aa798ff42e1f111426312603f1aff7a6aa78483b201f6915ef65c3aacc7c1fb
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
